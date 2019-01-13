@@ -1,0 +1,1 @@
+Training CNN and ResNet architectures on CIFAR-10. [Download CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html).
